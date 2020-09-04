@@ -9,7 +9,7 @@
     "dependencies": {
     },
     "devDependencies": {
-        "http-proxy": "0.10.3",
+        "http-proxy": "1.18.1",
         "karma": "0.10.2",
         "karma-coverage": "0.1.0",
         "karma-jasmine": "0.1.3",
